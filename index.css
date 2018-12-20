@@ -3,8 +3,6 @@
     top: 50%;
 position: relative;
 margin-top: 0px;
-/* margin-left: 15vw; */
-
 }
 
 
@@ -18,21 +16,4 @@ body{
   margin-left: 15vw;
 }
 
-p{
-  color: white;
-  font-size: 12pt;
-  font-family: arial;
-  line-height: 30px;
-  text-align: justify;
-  text-indent: 40px;
-  /* text-transform: uppercase; */
-  /* margin-left: 15vw; */
 
-
-}
-h1{
-  margin-top: 200px;
-  color: white;
-  font-size: 12pt;
-  font-family: arial;
-}
